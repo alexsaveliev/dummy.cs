@@ -1,6 +1,6 @@
 namespace ServiceStack.IntegrationTests.ConsoleClient
 {
-	class Program
+	class foo
 	{
 		static void Main(string[] args)
 		{
